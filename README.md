@@ -1,4 +1,4 @@
-# Examc-Seating-Arrangments
+# Examination sitting arrangement using Artificial intelligence. 
 
 
 **This is the an Artificial intelligence project where sitting arrangement of students in examination hall having constraints like** :</br>
